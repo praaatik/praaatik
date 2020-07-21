@@ -10,4 +10,4 @@ Still thinking what to put in here..... <img src="https://github.com/praaatik/pr
 <a href="mailto:pratikkulkarni1307@gmail.com"><img src="https://github.com/praaatik/praaatik/blob/master/subscribe-1.gif" width="28px" height="28px" /></a>
 
 
-<img src="https://github.com/praaatik/praaatik/blob/master/footer.png.png">
+<img src="https://github.com/praaatik/praaatik/blob/master/footer.png">
