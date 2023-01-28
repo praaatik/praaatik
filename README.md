@@ -4,7 +4,7 @@ I am a software engineer with four years of professional experience. I have a st
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [praaatik.kulkarni@proton.me](mailto:praaatik.kulkarni@proton.me)
-* 🧠  I'm learning [PyTorch](https://pytorch.org/), [Svelte](https://svelte.dev/)
+* 🧠  I'm learning [PyTorch](https://pytorch.org/), [Svelte](https://svelte.dev/), [Go](https://go.dev/)
 
 ### Skills
 
