@@ -1,6 +1,6 @@
 <img src="https://github.com/praaatik/praaatik/blob/master/header.png">
 
-I am a software engineer with four years of professional experience. I have a strong background in computer science. I am skilled in a variety of programming languages like JavaScript/TypeScript, Python, Java, and Rust and have an experience in working with both front-end and back-end techologies and I am skilled in using frameworks and like ReactJS, NextJS, NestJS, GraphQL, etc.
+I am a software engineer with four years of professional experience. I have a strong background in computer science. I am skilled in a variety of programming languages like JavaScript/TypeScript, Python, Java, and Rust and have an experience in working with both front-end and back-end techologies and I am skilled in using frameworks and like React, Next.js, NestJS, GraphQL, etc.
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [praaatik.kulkarni@proton.me](mailto:praaatik.kulkarni@proton.me)
